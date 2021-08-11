@@ -1,0 +1,2 @@
+# Image_segmentation_Unet_v2
+In this project, I used U-Net architecture. U-Net is able to do image localization by predicting the image pixel by pixel. This architecture  used transposed convolution upsampling technique that expands the size of images. Object detection labels objects with bounding boxes may include pixels that aren't part of the object, and semantic image segmentation allows you to predict a precise mask for each object in the image by labeling each pixel in the image with its corresponding class. 
